@@ -1,3 +1,2 @@
-!test!     14400   IN      A       95.217.127.172  ; #subdomain !test!
-www.!test!     14400   IN      A       95.217.127.172  ; #subdomain !test!
-
+!test!     14400   IN      A       !ip!  ; #subdomain !test!
+www.!test!     14400   IN      A       !ip!  ; #subdomain !test!
